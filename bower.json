@@ -21,7 +21,7 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.5.5",
+    "angular": "~1.2.16",
     "d3": "~3.4.6",
     "underscore": "~1.6.0"
   },
